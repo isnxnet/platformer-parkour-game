@@ -3,8 +3,11 @@ A sample game I made on unity
 <img width="1575" height="698" alt="image" src="https://github.com/user-attachments/assets/01fe946b-c2b9-4cc7-b7d1-21fe62e25df2" />
 
 ## About the Project
-I built this project to deepen my understanding of **C# programming** and **game physics** within the Unity engine. 
+I built this project to deepen my understanding of C# programming and game physics within the Unity engine. 
 This was made for my high school capstone project 😁😁😁
+
+## Platform
+Windows Only
 
 ### Technical Features
 * **Player Controller:** Custom C# script handling velocity, jump physics, and ground detection using Raycasts.
